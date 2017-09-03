@@ -3,9 +3,8 @@ package test;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("hello word!");
-		System.out.println("git1开始写");
-
+		System.out.println("我自己写,别再提交了");
+		
 	}
 
 }
